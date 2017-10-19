@@ -1,2 +1,1 @@
-# Jpcc
-省市县的三级联动插件
+"# provinces_cities_picker" 
